@@ -1,0 +1,16 @@
+{
+    "version": "1.0",
+    "description": "Generic IP",
+    "objects": [
+        {
+            "name": "IP",
+            "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d8",
+            "description": "IPv4 addresses",
+            "ranges": [
+                "189.6.45.130",
+                "185.161.248.87",
+                "104.248.136.93"
+            ]
+        }
+    ]
+}
